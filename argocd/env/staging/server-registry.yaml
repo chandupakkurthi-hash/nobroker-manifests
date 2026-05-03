@@ -1,0 +1,3 @@
+appName: server-registry
+spec:
+  namespace: staging

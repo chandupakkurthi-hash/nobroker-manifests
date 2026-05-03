@@ -1,0 +1,3 @@
+appName: property-service
+spec:
+  namespace: qa

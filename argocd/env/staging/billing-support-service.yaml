@@ -1,0 +1,3 @@
+appName: billing-support-service
+spec:
+  namespace: staging

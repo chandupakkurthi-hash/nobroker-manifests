@@ -1,0 +1,4 @@
+apiVersion: v2
+name: application-template
+description: Standard template for ArgoCD Applications
+version: 0.1.0
