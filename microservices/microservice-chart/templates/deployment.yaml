@@ -19,4 +19,4 @@ spec:
             - containerPort: {{ .Values.service.port }}
           envFrom:
             - secretRef:
-                name: nobroker-secret
+                name: {{ .Release.Name }}-secret
