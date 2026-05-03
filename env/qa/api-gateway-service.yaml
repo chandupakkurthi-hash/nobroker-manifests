@@ -1,0 +1,5 @@
+image:
+  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/api-gateway-service
+  tag: latest
+service:
+  port: 8080

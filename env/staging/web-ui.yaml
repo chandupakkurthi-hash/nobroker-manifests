@@ -1,0 +1,6 @@
+replicaCount: 1
+image:
+  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/web-ui
+  tag: latest
+service:
+  port: 8084

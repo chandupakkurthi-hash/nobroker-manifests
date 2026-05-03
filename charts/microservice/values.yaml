@@ -1,0 +1,7 @@
+replicaCount: 1
+image:
+  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/placeholder
+  tag: latest
+service:
+  type: ClusterIP
+  port: 8080
