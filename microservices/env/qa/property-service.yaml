@@ -1,5 +1,5 @@
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/property-service
-  tag: latest
+  tag: 4.0.5-1-eafe72c-qa
 service:
   port: 8082
