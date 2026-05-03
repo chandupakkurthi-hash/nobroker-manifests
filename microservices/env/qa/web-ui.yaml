@@ -2,4 +2,5 @@ image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/web-ui
   tag: 4.0.5-1-4c27264-qa
 service:
-  port: 8084
+  type: LoadBalancer
+  port: 8081
