@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/web-ui
-  tag: 4.0.5-5-4ee4491-production
+  tag: 4.0.5-6-096649a-production
 service:
   port: 8081
