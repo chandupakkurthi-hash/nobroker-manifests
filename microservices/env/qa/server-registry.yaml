@@ -1,5 +1,5 @@
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/server-registry
-  tag: 4.0.5-6-ef2875f-qa
+  tag: 4.0.5-2-ef2875f-qa
 service:
   port: 8761
