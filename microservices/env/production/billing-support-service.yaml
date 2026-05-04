@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/billing-support-service
-  tag: latest
+  tag: 4.0.5-1-c7817ac-production
 service:
   port: 8083
