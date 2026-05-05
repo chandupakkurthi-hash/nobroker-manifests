@@ -1,3 +1,2 @@
 appName: web-ui
-spec:
-  namespace: qa
+namespace: qa

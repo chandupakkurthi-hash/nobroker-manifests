@@ -1,3 +1,2 @@
 appName: api-gateway-service
-spec:
-  namespace: production
+namespace: production

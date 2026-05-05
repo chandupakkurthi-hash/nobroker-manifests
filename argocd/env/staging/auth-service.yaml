@@ -1,3 +1,2 @@
 appName: auth-service
-spec:
-  namespace: staging
+namespace: staging

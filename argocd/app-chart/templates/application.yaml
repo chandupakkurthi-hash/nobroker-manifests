@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: {{ .Values.appName }}-{{ .Values.spec.namespace }}
+  name: {{ .Values.appName }}-{{ .Values.namespace }}
   namespace: argocd
 spec:
   project: default
@@ -12,11 +12,11 @@ spec:
     path: microservices/microservice-chart
     helm:
       valueFiles:
-        - ../env/{{ .Values.spec.namespace }}/{{ .Values.appName }}.yaml
+        - ../env/{{ .Values.namespace }}/{{ .Values.appName }}.yaml
 
   destination:
     server: 'https://kubernetes.default.svc'
-    namespace: {{ .Values.spec.namespace }}
+    namespace: {{ .Values.namespace }}
 
   syncPolicy:
     automated:

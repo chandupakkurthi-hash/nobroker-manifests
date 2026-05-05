@@ -1,3 +1,2 @@
 appName: web-ui
-spec:
-  namespace: production
+namespace: production

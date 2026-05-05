@@ -1,3 +1,2 @@
 appName: billing-support-service
-spec:
-  namespace: production
+namespace: production

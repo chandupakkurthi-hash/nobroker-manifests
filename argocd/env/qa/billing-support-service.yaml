@@ -1,3 +1,2 @@
 appName: billing-support-service
-spec:
-  namespace: qa
+namespace: qa

@@ -1,3 +1,2 @@
 appName: property-service
-spec:
-  namespace: production
+namespace: production

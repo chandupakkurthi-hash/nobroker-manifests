@@ -1,3 +1,2 @@
 appName: auth-service
-spec:
-  namespace: qa
+namespace: qa
