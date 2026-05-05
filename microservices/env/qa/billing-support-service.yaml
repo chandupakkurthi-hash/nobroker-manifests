@@ -2,4 +2,4 @@ image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/billing-support-service
   tag: 4.0.5-1-c7817ac-qa
 service:
-  port: 8083
+  port: 8084
