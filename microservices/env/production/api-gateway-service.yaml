@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/api-gateway-service
-  tag: 4.0.5-3-2eee008-production
+  tag: 4.0.5-1-2eee008-production
 service:
   type: LoadBalancer
   port: 8080
