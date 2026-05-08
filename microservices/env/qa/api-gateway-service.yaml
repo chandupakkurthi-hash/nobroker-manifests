@@ -1,6 +1,6 @@
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/api-gateway-service
-  tag: 4.0.5-1-f79684b-qa
+  tag: 4.0.5-2-2eee008-qa
 service:
   type: LoadBalancer
   port: 8080
