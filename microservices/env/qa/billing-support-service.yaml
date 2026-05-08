@@ -1,5 +1,6 @@
+replicaCount: 1
 image:
   repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/billing-support-service
-  tag: 4.0.5-3-a2185ba-qa
+  tag: 4.0.5-1-a2185ba-production
 service:
   port: 8084
