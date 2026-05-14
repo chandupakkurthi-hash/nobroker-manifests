@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/auth-service
+  repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/auth-service
   tag: 4.0.5-1-23f976a-production
 service:
   port: 8083

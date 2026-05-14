@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/billing-support-service
+  repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/billing-support-service
   tag: latest
 service:
   port: 8084

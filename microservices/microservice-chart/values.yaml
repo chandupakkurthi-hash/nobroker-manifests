@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/placeholder
+  repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/placeholder
   tag: latest
 service:
   type: ClusterIP

@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/api-gateway-service
+  repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/api-gateway-service
   tag: 4.0.5-3-2eee008-qa
 service:
   type: LoadBalancer

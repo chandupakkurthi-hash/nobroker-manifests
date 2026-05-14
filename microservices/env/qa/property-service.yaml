@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 824033491491.dkr.ecr.eu-north-1.amazonaws.com/property-service
+  repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/property-service
   tag: 4.0.5-3-da1b4b0-qa
 service:
   port: 8082
