@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
   repository: 275928090866.dkr.ecr.us-east-1.amazonaws.com/server-registry
-  tag: 4.0.5-2-f8cbdbc-production
+  tag: 4.0.5-13-f8cbdbc-qa
 service:
   port: 8761
